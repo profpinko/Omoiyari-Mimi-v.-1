@@ -1,0 +1,7 @@
+{
+  "name": "Omoiyari Mimi",
+  "description": "Asystent Komunikacji Bez Barier - inteligentny transkrybent dla recepcji.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
